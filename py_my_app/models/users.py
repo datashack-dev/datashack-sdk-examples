@@ -1,4 +1,4 @@
-from datashack_sdk import StreamingTable, Column
+from datashack_sdk_py import StreamingTable, Column
 
 Users = StreamingTable(
     "users",
